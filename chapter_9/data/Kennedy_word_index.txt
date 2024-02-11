@@ -1,0 +1,20 @@
+but: 2 
+we: 1 
+symbolizing: 3 
+an: 3 
+of: 2 3 
+end: 3 
+signifying: 5 
+not: 1 
+well: 4 5 
+change: 6 
+as: 4 5 6 
+observe: 1 
+a: 1 2 4 
+today: 1 
+victory: 1 
+celebration: 2 
+freedom: 3 
+renewal: 5 
+party: 2 
+beginning: 4 
